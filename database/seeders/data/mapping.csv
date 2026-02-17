@@ -1,0 +1,34 @@
+energy,orientation,structure,drive,reaction,skill_1,skill_2,skill_3,skill_4,skill_5
+Introverted,Practical,Organized,Cooperative,Reflective,Active Listening,Workflow Design,Knowledge Management,Time Management,Collaboration
+Introverted,Practical,Organized,Cooperative,Responsive,Team Communication,Meeting Management,Customer Service,Collaboration,Conflict Management
+Introverted,Practical,Organized,Competitive,Reflective,Strategic Thinking,Risk Assessment,Ownership and Accountability,Performance Management,Goal Alignment
+Introverted,Practical,Organized,Competitive,Responsive,Negotiation,Results Leadership,Stakeholder Management,Problem Solving,Sales Management
+Introverted,Practical,Spontaneous,Cooperative,Reflective,Empathy,Stress Management,Active Listening,Collaboration,Community Building
+Introverted,Practical,Spontaneous,Cooperative,Responsive,Conflict Management,Team Communication,Customer Service,Emotional Intelligence,Feedback
+Introverted,Practical,Spontaneous,Competitive,Reflective,Risk Assessment,Strategic Thinking,Focus Discipline,Ownership and Accountability,Time Management
+Introverted,Practical,Spontaneous,Competitive,Responsive,Negotiation,Results Leadership,Problem Solving,Sales Management,Stakeholder Management
+Introverted,Imaginative,Organized,Cooperative,Reflective,Design Thinking,Knowledge Management,Empathy,Strategic Thinking,Coaching
+Introverted,Imaginative,Organized,Cooperative,Responsive,Storytelling,Teaching,Team Communication,Community Building,Collaboration
+Introverted,Imaginative,Organized,Competitive,Reflective,Innovation,Systems Thinking,Strategic Thinking,Idea Leadership,Risk Assessment
+Introverted,Imaginative,Organized,Competitive,Responsive,Presentation,Stakeholder Management,Entrepreneurial Leadership,Negotiation,Public Relations
+Introverted,Imaginative,Spontaneous,Cooperative,Reflective,Empathy,Design Thinking,Community Building,Stress Management,Emotional Intelligence
+Introverted,Imaginative,Spontaneous,Cooperative,Responsive,Storytelling,Team Communication,Teaching,Collaboration,Feedback
+Introverted,Imaginative,Spontaneous,Competitive,Reflective,Innovation,Strategic Thinking,Idea Leadership,Focus Discipline,Risk Assessment
+Introverted,Imaginative,Spontaneous,Competitive,Responsive,Public Speaking,Critical Thinking,Goal Alignment,Results Leadership,Ownership and Accountability
+Extroverted,Practical,Organized,Cooperative,Reflective,Coaching,Collaboration,Meeting Management,Performance Management,Active Listening
+Extroverted,Practical,Organized,Cooperative,Responsive,Team Communication,Customer Service,Conflict Management,Community Building,Workplace Communication
+Extroverted,Practical,Organized,Competitive,Reflective,Strategic Thinking,Performance Management,Goal Alignment,Risk Assessment,Ownership and Accountability
+Extroverted,Practical,Organized,Competitive,Responsive,Negotiation,Results Leadership,Sales Management,Stakeholder Management,Problem Solving
+Extroverted,Practical,Spontaneous,Cooperative,Reflective,Collaboration,Community Building,Stress Management,Active Listening,Empathy
+Extroverted,Practical,Spontaneous,Cooperative,Responsive,Customer Service,Team Communication,Conflict Management,Feedback,Event Management
+Extroverted,Practical,Spontaneous,Competitive,Reflective,Risk Assessment,Focus Discipline,Strategic Thinking,Goal Alignment,Performance Management
+Extroverted,Practical,Spontaneous,Competitive,Responsive,Sales Management,Negotiation,Results Leadership,Problem Solving,Stakeholder Management
+Extroverted,Imaginative,Organized,Cooperative,Reflective,Coaching,Strategic Thinking,Design Thinking,People Leadership,Knowledge Management
+Extroverted,Imaginative,Organized,Cooperative,Responsive,Presentation,Teaching,Community Building,Team Communication,Storytelling
+Extroverted,Imaginative,Organized,Competitive,Reflective,Innovation,Systems Thinking,Idea Leadership,Strategic Thinking,Entrepreneurial Leadership
+Extroverted,Imaginative,Organized,Competitive,Responsive,Public Speaking,Stakeholder Management,Entrepreneurial Leadership,Negotiation,Public Relations
+Extroverted,Imaginative,Spontaneous,Cooperative,Reflective,Community Building,Empathy,Design Thinking,Collaboration,Emotional Intelligence
+Extroverted,Imaginative,Spontaneous,Cooperative,Responsive,Storytelling,Public Speaking,Team Communication,Teaching,Event Management
+Extroverted,Imaginative,Spontaneous,Competitive,Reflective,Innovation,Idea Leadership,Strategic Thinking,Risk Assessment,Focus Discipline
+Extroverted,Imaginative,Spontaneous,Competitive,Responsive,Public Speaking,Entrepreneurial Leadership,Negotiation,Stakeholder Management,Results Leadership
+Balanced,Balanced,Balanced,Balanced,Balanced,Strategic Thinking,Emotional Intelligence,Collaboration,Problem Solving,People Leadership
